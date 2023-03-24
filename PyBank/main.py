@@ -128,7 +128,7 @@ display(summary_df)
 analysis_pybank= f'Total Months: {num_months_df}\nAverage change: ${avg_change_df}\nGreatest Increase in Profits Date: {greatest_inc_date_df}\nGreatest Increase in Profits Amount: ${greatest_inc_amount_df}\nGreatest Decrease in Profits Date: {greatest_dec_date_df}\nGreatest Decrease in Profits Amount: ${greatest_dec_amount_df}'
 
 
-print (analysis)
+print (analysis_pybank)
 
 
 # In[195]:
